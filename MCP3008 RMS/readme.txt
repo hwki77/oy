@@ -1,0 +1,1 @@
+This example is a demo of the analog-to-digital converter. It will show the digital value of pin A0 in the Monitor logs.
